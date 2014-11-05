@@ -1,0 +1,17 @@
+{
+  "name": "es-next-fun",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "bolinfest@gmail.com",
+
+  "//": "promise and react are needed only for the generated out.js file.",
+  "dependencies": {
+    "promise": "~6.0.0",
+    "react": "^0.11.2",
+
+    "react-tools": "^0.11.2",
+    "recast": "^0.9.1",
+    "regenerator": "^0.6.9"
+  }
+}
