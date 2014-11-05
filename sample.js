@@ -46,7 +46,7 @@ var CommentBox = React.createClass({
   }
 });
 
-// Here are a simple ES6 class hierarchy.
+// Here is a simple ES6 class hierarchy.
 // Some of the methods are async.
 // Note the use of type annotations.
 
