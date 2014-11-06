@@ -12,6 +12,6 @@
 
     "react-tools": "^0.11.2",
     "recast": "^0.9.1",
-    "regenerator": "^0.6.9"
+    "regenerator": "^0.6.10"
   }
 }

@@ -27,5 +27,3 @@ $ node .
 # Run the generated code.
 $ node out.js
 ```
-
-Currently, everything seems to work except the `catch` block around the `await`.
